@@ -1,6 +1,3 @@
-# set the working directory
-setwd("C:/Users/Victor/Desktop/Project/UCI HAR Dataset")
-
 # load dplyr and reshape2 libraries that will be used further on
 library(dplyr)
 library(reshape2)
